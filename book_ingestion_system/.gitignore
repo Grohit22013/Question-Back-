@@ -1,0 +1,7 @@
+# Book Ingestion System
+__pycache__/
+*.pyc
+.env
+pages/
+output/
+logs/*.log
