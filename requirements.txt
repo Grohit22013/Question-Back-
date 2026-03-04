@@ -1,0 +1,23 @@
+# Core
+torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.27.0
+qwen-vl-utils>=0.0.2
+
+# LangChain
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-huggingface>=0.0.3
+
+# PDF Processing
+PyMuPDF>=1.24.0
+pdf2image>=1.17.0
+
+# Database
+psycopg2-binary>=2.9.9
+
+# Data
+pandas>=2.1.0
+
+# Utilities
+Pillow>=10.0.0
